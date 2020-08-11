@@ -1,2 +1,2 @@
 # Visualizing-Amazon-Fine-Food-Reviews-using-TSNE
-In this repository I explained that how TSNE can work on Amazon Fine Food Reviews dataset.Dataset contains reviews in a text format so,I converts those text reviews into vectors using many Natural Language Processing Techinces like Bag of Words,Tf-idf,W2vec,Avg W2vec and finally i appiled TSNE on outputs of those Natural Language Processing techinque
+In this repository I explained that how TSNE can work on Amazon Fine Food Reviews dataset.Dataset contains reviews in a text format so,I converts those text reviews into vectors using many Natural Language Processing technique like Bag of Words,Tf-idf,W2vec,Avg W2vec and finally i appiled TSNE on outputs of those Natural Language Processing technique
